@@ -148,7 +148,7 @@ val io = IO(new Bundle {
 
 #### 项目源代码组织
 
-<img src="/home/liuganhuo/.config/Typora/typora-user-images/image-20241012161702566.png" alt="image-20241012161702566" style="zoom:67%;" />
+<img src="./img/image-20241012161702566.png" alt="image-20241012161702566" style="zoom:67%;" />
 
 最终生成的verilog文件存放与generated文件夹下
 
